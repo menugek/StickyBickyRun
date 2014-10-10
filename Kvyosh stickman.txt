@@ -1,0 +1,15 @@
+Stickman minimum 6 animations
+
+Mort
+Courir ninja
+Sauter
+
+
+1 stickman image max 256 x 256 pixels
+
+tête 50 pixel
+corps 20 pixel
+
+Station de heal
+pics noirs sanglants
+Speedblocks (multicolore)
